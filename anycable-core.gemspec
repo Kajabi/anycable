@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 2.4.9"
 
-  spec.add_dependency "anyway_config", ">= 2.1.0"
+  spec.add_dependency "anyway_config", "1.4.3"
   spec.add_dependency "google-protobuf", ">= 3.13"
 
   spec.add_development_dependency "redis", ">= 4.0"
